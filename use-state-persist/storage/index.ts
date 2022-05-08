@@ -1,0 +1,1 @@
+export { syncStorage } from './storage';
