@@ -125,7 +125,7 @@ export const Task: React.FC<TaskProps> = ({
         spaceDirection="right"
         className="flex pb-2 text-timem-gray-700 font-medium text-sm tracking-wide border-b border-dashed border-timem-gray-100"
       >
-        <Label size="xs" color="red">BUGFIX</Label>
+        {/* <Label size="xs" color="red">BUGFIX</Label> */}
         {/* <Label size="xs" color="yellow">TODO</Label> */}
         <div
           contentEditable

@@ -64,6 +64,8 @@ export const TimelineItem: React.FC<TimelineItemProps> = ({
   colors:
 
   "text-timem-red-100"
+  "text-timem-green-100"
+  "text-timem-primary-100"
   "text-timem-blue-100"
   "text-timem-secondary-100"
   "border-timem-red-500"

@@ -1,4 +1,3 @@
-import { CurrentSessionContextProvider } from "context/currentSessionContext";
 import { TopicContextProvider } from "context/topic/context";
 import React from "react";
 import { AppLoadingContextProvider } from "../context/loadingContext";
